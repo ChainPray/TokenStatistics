@@ -4,7 +4,7 @@ Statistics of spending and holdings of all tokens
 ## Account holdings
 |  Chain   | Account  | Amount  |
 |  ----  | ----  | ----  |
-| zkSync Era  | Admin | 7,143,010,179 + 36,000(rewards, belong to team) |
+| zkSync Era  | Admin | 7,143,010,179 |
 | zkSync Era  | TmpDAO | 500,000 |
 | Base  | Admin | 400,606,121 |
 | Linea  | Admin | 400,606,121 |
