@@ -4,8 +4,8 @@ Statistics of spending and holdings of all tokens
 ## Account holdings
 |  Chain   | Account  | Amount  |
 |  ----  | ----  | ----  |
-| zkSync Era  | Admin | 7,143,010,179 |
-| zkSync Era  | TmpDAO | 500,000 |
+| zkSync Era  | Admin | 7,138,010,179 |
+| zkSync Era  | TmpDAO | 0 |
 | Base  | Admin | 400,606,121 |
 | Linea  | Admin | 400,606,121 |
 ## Expenditure
@@ -20,6 +20,7 @@ Statistics of spending and holdings of all tokens
 | Linea  | Free Airdrop | Admin | 1,000,000 | 0xae7703b8de46cac96dde69cc037e808af9d3e451db04ecb099979d1469592246 |
 | zkSync Era  | Third Activity | DAO | 500,000 | 0xbecaa9421c24727f71b430f34503b060ca45257e166892084b3c9c37ad5bb4f5 |
 | zkSync Era  | Special Rewards | DAO | 5,000,000 | 0x463c3108fb2f6836aba8d2bd65b75b306a3990c7ba847ddedbca08d3f305fe3f |
+| zkSync Era  | Special Rewards | DAO | 5,000,000 | 0x3c9a98af689c19d19e1a98831b203dd2fb1b5fbc4e06ede88534ed52e202c28e |
 # PrayLuckStar
 ## Account holdings
 |  Chain   | Account  | Amount  |
@@ -32,4 +33,4 @@ Statistics of spending and holdings of all tokens
 |  ----  | ----  | ----  | ----  | ----  |
 | zkSync Era  | Burn To Base | Admin | 4,016,061 | 0x9aad5547e429a14d3da216e0f64e10b41bf4ce637043626826ee4616516c7b73 |
 | zkSync Era  | Burn To Linea | Admin | 4,016,061 | 0xf215c6ba1a93d6324ea4c501a6922a26bcc315349d5074026fc03bca807b3fa9 |
-| zkSync Era  | Special Rewards | DAO | 100,000 | Accounting |
+| zkSync Era  | Special Rewards | DAO | 100,000 | Accounting 0x00000000e8334445E02d819EAFD75ADDf2133a5F |
