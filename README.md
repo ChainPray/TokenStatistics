@@ -4,7 +4,7 @@ Statistics of spending and holdings of all tokens
 ## Account holdings
 |  Chain   | Account  | Amount  |
 |  ----  | ----  | ----  |
-| zkSync Era  | Admin | 6,736,404,058 |
+| zkSync Era  | Admin | 6,734,404,058 |
 | zkSync Era  | TmpDAO | 0 |
 | Base  | Admin | 400,606,121 |
 | Linea  | Admin | 400,606,121 |
@@ -24,6 +24,7 @@ Statistics of spending and holdings of all tokens
 | zkSync Era  | Special Rewards | DAO | 5,000,000 | 0x3c9a98af689c19d19e1a98831b203dd2fb1b5fbc4e06ede88534ed52e202c28e |
 | zkSync Era  | Burn To Scroll | Admin | 401,606,121 | 0x8a72b687926870fa28f68235fedd9d63786c53e9c39583096eb5eec27e25ab3d |
 | Scroll  | Free Airdrop | Admin | 1,000,000 | 0x987d25802d9447509e4757dd2003b4479a6036701ddb8273bccf2be2034978d5 |
+| zkSync Era  | Special Rewards | DAO | 2,000,000 | 0x69295ec500a4eb4a25d55819e236c2b35f4f8c5d6d283c39e6f801b7cf3f5b25 |
 # PrayLuckStar
 ## Account holdings
 |  Chain   | Account  | Amount  |
