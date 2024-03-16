@@ -4,11 +4,13 @@ Statistics of spending and holdings of all tokens
 ## Account holdings
 |  Chain   | Account  | Amount  |
 |  ----  | ----  | ----  |
-| zkSync Era  | Admin | 6,733,404,058 |
+| zkSync Era  | Admin | 5,932,191,816 |
 | zkSync Era  | TmpDAO | 0 |
 | Base  | Admin | 400,606,121 |
 | Linea  | Admin | 400,606,121 |
 | Scroll  | Admin | 400,606,121 |
+| Merlin  | Admin | 400,606,121 |
+| Blast  | Admin | 400,606,121 |
 ## Expenditure
 |  Chain  | Action   | From Account  | Amount  | TxHash  |
 |  ----  | ---------  | ----  | ----  | ----  |
@@ -27,14 +29,18 @@ Statistics of spending and holdings of all tokens
 | zkSync Era  | Special Rewards | DAO | 2,000,000 | 0x69295ec500a4eb4a25d55819e236c2b35f4f8c5d6d283c39e6f801b7cf3f5b25 |
 | zkSync Era  | L0Bridge Liquidity | DAO | 1,000,000 | 0x5d55e31a22febff50e0f5c5e720fc28ab26bd7200e6eb156751c61bad6b25cf0 |
 | Base  | L0Bridge Liquidity | DAO | 1,000,000 | 0x33e45fa5854319dbe3f9e8d14cddd4b390f211de251ba7c8c739307950f2c299 |
+| zkSync Era  | Burn To Merlin | Admin | 401,606,121 | 0xe3badfd6f320fcac95befbc6a217f8dba027efdc81f167f6d8454b8e4ae30e8b |
+| zkSync Era  | Burn To Blast | Admin | 401,606,121 | 0x5ac816a3f735220d9b464415fbe3c6d8e868bb762e235f7ffdc1b268bd9bf7cf |
 # PrayLuckStar
 ## Account holdings
 |  Chain   | Account  | Amount  |
 |  ----  | ----  | ----  |
-| zkSync Era  | Admin | 68,273,041 |
+| zkSync Era  | Admin | 64,256,980 |
 | Base  | Admin | 4,016,061 |
 | Linea  | Admin | 4,016,061 |
 | Scroll  | Admin | 4,016,061 |
+| Merlin  | Admin | 4,016,061 |
+| Blast  | Admin | 4,016,061 |
 ## Expenditure
 |  Chain  | Action   | From Account  | Amount  | TxHash  |
 |  ----  | ----  | ----  | ----  | ----  |
@@ -42,3 +48,5 @@ Statistics of spending and holdings of all tokens
 | zkSync Era  | Burn To Linea | Admin | 4,016,061 | 0xf215c6ba1a93d6324ea4c501a6922a26bcc315349d5074026fc03bca807b3fa9 |
 | zkSync Era  | Burn To Scroll | Admin | 4,016,061 | 0x1480365974ea125bdb32de0dbabcd96aef7a5727f977f5c6c088076fa46ea728 |
 | zkSync Era  | Special Rewards | DAO | 100,000 | Accounting 0x00000000e8334445E02d819EAFD75ADDf2133a5F |
+| zkSync Era  | Burn To Merlin | Admin | 4,016,061 | 0x0deb92ce0cd60eb2b0ed3a166f6ccf3466399f840a3657595021fd7fe68642f4 |
+| zkSync Era  | Burn To Blast | Admin | 4,016,061 | 0x9c0c7eb618efe481516b04ca37d027a430b0fa99419acd2a598b364bcefc8b07 |
